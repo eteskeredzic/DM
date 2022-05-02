@@ -1,1 +1,1 @@
-# DM 2017/2018 - programi pisani za provjeru rezultata na zadacama
+# DM 2017/2018 - implemented algorithms for homework solution checking. Semester is completed, so tasks are no longer here for public review - they have been moved to a private repository. This repository will be archived.
